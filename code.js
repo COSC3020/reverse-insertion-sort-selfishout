@@ -1,4 +1,4 @@
-function insertionSortReverse(array) {
+function insertionSortReverse(arr) {
     for(var i = arr.length - 1; i > 0; i--) {
     var val = arr[i];
     var j;
