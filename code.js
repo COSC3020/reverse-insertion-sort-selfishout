@@ -7,5 +7,5 @@ function insertionSortReverse(arr) {
     }
     arr[j] = val;
   }
-    return array;
+    return arr;
 }
